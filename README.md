@@ -479,7 +479,6 @@ print(f"""
 | **Attribute** | **Value** |
 |:--------------|:----------|
 | 🆔 **SAP ID** | 500119489 |
-| 📚 **Batch** | 12 |
 | 🎫 **Roll No** | R2142230357 |
 | 🎯 **Specialization** | Healthcare AI/ML |
 
